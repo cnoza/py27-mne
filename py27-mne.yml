@@ -1,0 +1,138 @@
+name: py27
+channels:
+- defaults
+dependencies:
+- alabaster=0.7.10=py27h2cab13d_0
+- apptools=4.4.0=py27_0
+- asn1crypto=0.23.0=py27hfce870e_0
+- astroid=1.5.3=py27h658102e_0
+- babel=2.5.0=py27h50e9d34_0
+- backports=1.0=py27h6492d98_1
+- backports.functools_lru_cache=1.4=py27h9586e20_1
+- backports.shutil_get_terminal_size=1.0.0=py27h1657125_2
+- backports_abc=0.5=py27h0ec6b72_0
+- bleach=2.1.1=py27h48e914a_0
+- ca-certificates=2017.08.26=h94faf87_0
+- certifi=2017.11.5=py27h03b45e1_0
+- cffi=1.11.2=py27hba5d71c_0
+- chardet=3.0.4=py27h56c3b73_1
+- colorama=0.3.9=py27hdfe4ae1_0
+- configobj=5.0.6=py27_0
+- configparser=3.5.0=py27h2fa79a8_0
+- cryptography=2.1.4=py27h0628b04_0
+- cycler=0.10.0=py27h59acbbf_0
+- decorator=4.1.2=py27h383e199_0
+- docutils=0.14=py27h8652d09_0
+- entrypoints=0.2.3=py27h0271f2b_2
+- enum34=1.1.6=py27h2aa175b_1
+- envisage=4.6.0=py27h63382cd_0
+- functools32=3.2.3.2=py27h0cdbcdb_1
+- html5lib=1.0.1=py27h5a33001_0
+- icc_rt=2017.0.4=h97af966_0
+- idna=2.6=py27h1ea29d3_1
+- imagesize=0.7.1=py27h1482bd8_0
+- intel-openmp=2018.0.0=hd92c6cd_8
+- ipaddress=1.0.18=py27h08e1fa7_0
+- ipykernel=4.7.0=py27h5233db4_0
+- ipython=5.4.1=py27hbf971b4_1
+- ipython_genutils=0.2.0=py27hbe997df_0
+- ipywidgets=7.0.5=py27hac8cb9a_0
+- isort=4.2.15=py27hdc949c3_0
+- jedi=0.11.0=py27_2
+- jinja2=2.10=py27hba1794b_0
+- jsonschema=2.6.0=py27haaf3834_0
+- jupyter=1.0.0=py27h9d2e098_2
+- jupyter_client=5.1.0=py27hced1786_0
+- jupyter_console=5.2.0=py27h6ed736b_1
+- jupyter_core=4.4.0=py27h1619e65_0
+- lazy-object-proxy=1.3.1=py27ha5c8080_0
+- libpng=1.6.32=hc90de78_4
+- markupsafe=1.0=py27h9d4480d_1
+- matplotlib=1.5.1=np111py27_0
+- mayavi=4.5.0=py27_0
+- mccabe=0.6.1=py27hde0bf6e_1
+- mistune=0.8.1=py27hf875dda_0
+- mkl=2018.0.1=h2108138_4
+- nbconvert=5.3.1=py27h7a573cf_0
+- nbformat=4.4.0=py27hf49b375_0
+- notebook=5.2.2=py27h3cd48a9_0
+- numpy=1.11.3=py27hab9e983_3
+- numpydoc=0.7.0=py27hf7b062b_0
+- openssl=1.0.2n=hc64555f_0
+- pandoc=1.19.2.1=hb2460c7_1
+- pandocfilters=1.4.2=py27h76461d3_1
+- parso=0.1.1=py27hd69ea77_0
+- pathlib2=2.3.0=py27h0ae272f_0
+- pickleshare=0.7.4=py27hb5f6335_0
+- pip=9.0.1=py27hdaa76b4_4
+- prompt_toolkit=1.0.15=py27h3a8ec6a_0
+- psutil=5.4.1=py27h2104f53_0
+- pycodestyle=2.3.1=py27h24cd5d9_0
+- pycparser=2.18=py27hb43d16c_1
+- pyface=5.1.0=py27_0
+- pyflakes=1.6.0=py27h34e7826_0
+- pygments=2.2.0=py27ha50f84f_0
+- pylint=1.7.4=py27h1f1ce2c_0
+- pyopenssl=17.5.0=py27h59156d7_0
+- pyparsing=2.2.0=py27hc7d9fa6_1
+- pyqt=4.10.4=py27_1
+- pysocks=1.6.7=py27h59bdd1e_1
+- python=2.7.14=h8c3f1cb_23
+- python-dateutil=2.6.1=py27hbdcc174_1
+- pytz=2017.3=py27hca431c1_0
+- pyzmq=16.0.3=py27he883654_0
+- qtawesome=0.4.4=py27h766b13d_0
+- qtconsole=4.3.1=py27h77d40ac_0
+- qtpy=1.3.1=py27h1ff2b4b_0
+- requests=2.18.4=py27h3159eba_1
+- rope=0.10.7=py27hb65afb6_0
+- scandir=1.6=py27h518bda0_0
+- scikit-learn=0.19.1=py27he00e316_0
+- scipy=1.0.0=py27h7cd1477_0
+- setuptools=36.5.0=py27ha483b79_0
+- simplegeneric=0.8.1=py27h2c3a90d_0
+- singledispatch=3.4.0.3=py27h3f9d112_0
+- six=1.11.0=py27ha5e1701_1
+- snowballstemmer=1.2.1=py27h28d3bf7_0
+- sphinx=1.6.3=py27h858dd0f_0
+- sphinxcontrib=1.0=py27h0e2fb95_1
+- sphinxcontrib-websupport=1.0.1=py27h0d0f901_1
+- spyder=3.2.4=py27hbf7a773_0
+- ssl_match_hostname=3.5.0.1=py27hea8a0f4_2
+- testpath=0.3.1=py27h1cd488d_0
+- tk=8.5.18=vc9_0
+- tornado=4.5.2=py27hbdd278e_0
+- traitlets=4.3.2=py27h1b1b3a5_0
+- traits=4.6.0=py27_0
+- traitsui=5.1.0=py27_0
+- typing=3.6.2=py27h9197bb0_0
+- urllib3=1.22=py27hb9f5a07_0
+- vc=9=h7299396_1
+- vs2008_runtime=9.00.30729.1=hfaea7d5_1
+- vtk=6.3.0=py27_1
+- wcwidth=0.1.7=py27hb1a0d82_0
+- webencodings=0.5.1=py27h4e224a2_1
+- wheel=0.30.0=py27ha643586_1
+- widgetsnbextension=3.0.8=py27hc754cff_0
+- win_inet_pton=1.0.1=py27hf41312a_1
+- win_unicode_console=0.5=py27hc037021_0
+- wincertstore=0.2=py27hf04cefb_0
+- wrapt=1.10.11=py27hcd2b27d_0
+- zlib=1.2.11=hbc2faf4_2
+- pip:
+  - backports-abc==0.5
+  - backports.functools-lru-cache==1.4
+  - backports.shutil-get-terminal-size==1.0.0
+  - backports.ssl-match-hostname==3.5.0.1
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.1.0
+  - jupyter-console==5.2.0
+  - jupyter-core==4.4.0
+  - mne==0.15.2
+  - nibabel==2.2.1
+  - prompt-toolkit==1.0.15
+  - pysurfer==0.8.0
+  - win-inet-pton==1.0.1
+  - win-unicode-console==0.5
+prefix: d:\Profiles\cnozaradan\AppData\Local\Continuum\anaconda3\envs\py27
+
